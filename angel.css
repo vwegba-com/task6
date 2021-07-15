@@ -1,0 +1,29 @@
+h1 {
+    color:#CDF0EA ;
+}
+p {
+    color: #7C83FD;
+}
+
+.prevail {
+    background-color: #D9DD6B;
+}
+
+.cont
+{
+    text-transform: uppercase;
+    }
+    body {
+        background-image: url(./img4.jpg);
+    }
+    #container {
+        padding: 30px;
+        display: flex;
+        
+    
+    }
+    .cool {
+        margin: left 20px;
+    
+    }
+    
